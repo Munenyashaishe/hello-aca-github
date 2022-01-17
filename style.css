@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    /* background-color: red; */
+}
+
+ p {
+    color:red
+}
+
+#second_para {
+    color: blue;
+
+}
+
+.greet-text {
+    color: green;
+}
